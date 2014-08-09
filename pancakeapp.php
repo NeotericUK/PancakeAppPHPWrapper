@@ -14,7 +14,7 @@ class pancakeapp {
 		/* SET YOUR API KEY AND API URL BELOW */
 		/**************************************/
 		
-		$this->api_key = "__key__";		
+		$this->api_key = "AqpzhVCAbnX9sJrExV8ygIqx5TS7vWn7XnhIZoQl";		
 		$this->api_url = "http://www.__pancake_install__/api_1/";
 
 	}
